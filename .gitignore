@@ -17,3 +17,7 @@ yarn.lock
 package.json
 package-lock.json
 src/.vscode/settings.json
+
+.idea
+.DS_Store
+functions
